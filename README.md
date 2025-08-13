@@ -1,6 +1,6 @@
 # BaseApp — CometBFT (ABCI++) Template
 
-> A minimal, extensible starter for building apps on **CometBFT v0.38.x (ABCI++)**.  
+> A minimal, extensible starter for building apps on **CometBFT v1.0.x (ABCI++)**.  
 > This README explains **what to put in each core function** and gives drop-in snippets.
 
 ---
